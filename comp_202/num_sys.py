@@ -1,3 +1,5 @@
+#This is a function for number base conversions
+
 '''
 define a function to take in two parameters: x (a number of base 10)
 and b_y the base you wish to convert x to
